@@ -5,8 +5,8 @@ oRadio is a project to create a open source radio project that anyone how has in
 
 ## Parts of the project
 
-* radio-board FM/MW/SW/LW/SSB
-* radio-board DAB/DAB+
+* radio-board-analog (FM/MW/SW/LW/SSB)
+* radio-board-digital (DAB/DAB+)
 * sound-board
 * mcu-board
 * store-board
@@ -16,6 +16,9 @@ oRadio is a project to create a open source radio project that anyone how has in
 
 * radio-board FM/MW/SW/LW/SSB
 
-The `radio-board FM/MW/SW/LW/SSB` is a board that holds the IC [Si4735](https://www.silabs.com/audio-and-radio/multiband-radios/si4734-35-radio-receivers/device.si4735).
+The `radio-board-analog (FM/MW/SW/LW/SSB)` is a board that holds the IC [Si4735](https://www.silabs.com/audio-and-radio/multiband-radios/si4734-35-radio-receivers/device.si4735).
 
 Its only hold this IC so the user can make any experiments he/she wants with the IC.
+
+* KiCad project
+    - Si4735 [footprint](https://www.snapeda.com/parts/SI4735-D60-GU/Silicon%20Labs/view-part/)
