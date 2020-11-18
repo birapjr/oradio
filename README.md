@@ -1,4 +1,4 @@
-# oradio
+# oRadio
 open all frequency world radio - a.k.a oRadio
 
 oRadio is a project to create a open source radio project that anyone how has interest in radio can see how it work and be able to build his/her own from hardware building blocks.
