@@ -24,3 +24,10 @@ Current version: `v1.0.0`
 
 * KiCad project uses:
     - Si4735 [footprint](https://www.snapeda.com/parts/SI4735-D60-GU/Silicon%20Labs/view-part/)
+
+
+* sound board
+
+The board that connect external components to the IC Si4735 and the micro controller.
+
+Current version: `v1.0.0`
